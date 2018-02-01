@@ -1,0 +1,10 @@
+intents:
+greeting
+intent_resturant_search
+slots_wait
+slots_fill
+confirm
+
+
+"i am looking for a moderate restaurant"
+应该是intent_resturant_search
